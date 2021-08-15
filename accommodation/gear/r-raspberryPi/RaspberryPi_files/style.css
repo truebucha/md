@@ -1,0 +1,60 @@
+/*
+Theme Name: source™
+Theme URI: https://geekelectronics.org/
+Description: Адаптивная тема
+Version: 1.00
+Author: source™
+Author URI: https://geekelectronics.org/
+Tags: две колонки, мобильная, адаптивная, schema.org
+*/
+* {margin:0; padding:0;}
+html {font-family: Verdana, Arial; word-wrap:break-word; font-size: 1em;}
+.container{padding:0 1em;}
+@media (min-width:992px) {
+    .container{padding:0 2em;}
+}
+h1,h2,h3,.blogname {font-size:2em !important; clear:both !important; margin:0 !important;}
+/* blog header begin */
+header .blogname {font-family: 'Segoe Print', 'Segoe Script', Verdana, Arial; font-weight: bold; }
+header .blogdescription {font-size:1.5em; font-weight: bold; font-family: 'Segoe Print', 'Segoe Script', Verdana, Arial;}
+/* blog header end */
+
+/* nav begin */
+nav .brand-logo {font-size:3vw !important;}
+/*nav a {text-decoration:none; color:#000 !important;}*/
+nav .current-menu-item, nav .current-page-ancestor {text-decoration: underline;}
+nav .menu-item-object-category {display:none;}
+
+.post .col {margin: 1em 0;}
+.post .title a {text-decoration:none;}
+.post .content p {margin: 1em 0 !important; text-align: justify;}
+.post .content img:not(.wlEmoticon-smile) {float:none; width:100% !important; max-width: 100% !important; height:auto !important; clear:both !important;}
+.post .content ul, .content ol {margin:2em !important;}
+.post .content p strong {font-weight: normal;}
+.post .content blockquote, .post .content blockquote p {text-align: left;}
+.post .content input[type="checkbox"] {opacity: 1 !important; pointer-events: auto !important;}
+/* Смайлики */
+.post .content .emoji {display:none !important;}
+/* Видео */
+.post .content iframe {max-width: 100%;}
+
+.widget-container {overflow:hidden; padding: 1em;}
+.widget-title .rsswidget .rss-widget-icon {display:none;}
+.widget_authors ul li{padding:1em 0 0 0 !important;clear:both !important; font-size:2em !important; text-align:center;}
+.widget_authors img {width:60%; height:auto; margin: 1em;}
+.widget_authors strong {clear:both; margin: 1em; text-align:center;}
+
+/* Комментарии */
+.comment-body{padding:1em;margin:1em 0;position:relative; overflow: hidden;}
+.comment-body .comment-author .avatar {float:left; margin-right:1em;}
+.comment-body p {margin-top:0;}
+li .children{margin-left:2em;}
+
+
+
+.collection-item {height:auto !important; overflow: hidden !important;}
+
+.post-ratings img {width:1.5em; height:1.5em;}
+.post-ratings em {display:none;}
+
+.logoIcon_2z {display:none;}

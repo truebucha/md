@@ -1,0 +1,34 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 10000,
+    "editor.detectIndentation": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "editor.autoClosingBrackets": "never",
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.colorCustomizations": {
+        "[Tomorrow Night Blue]": {
+            "editor.background": "#000022",
+            "editor.lineHighlightBackground": "#102550",
+            "editorRuler.foreground": "#001066"
+        },
+        "editor.tokenColorCustomizations": {
+            "[Kimbie Dark]": {
+                "comments": "#229977",
+                "keywords": "#00c3ff",
+            }
+        },
+    },
+    "editor.rulers": [80,120],
+    "editor.autoSurround": "never",
+    "editor.fontSize": 13,
+    "terminal.external.osxExec": "Alacritty.app",
+    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+    "debug.javascript.usePreview": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+}
