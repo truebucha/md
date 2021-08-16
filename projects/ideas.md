@@ -10,3 +10,8 @@ it is a dayly app that reminds you about routines and thoughts.
 
 4 rutine execution -> checklists with templates.
 
+# names of projects
+
+* Vermilion
+
+* winter mute 
