@@ -2,9 +2,6 @@
 
 ## digital ocean
 
-### /etc/nginx/
-
-### /var/www/
 
 # production
 
