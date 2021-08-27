@@ -2,9 +2,6 @@
 
 ### <https://play.kotlinlang.org/byExample/>
 
-### about life cycles of Activity and Fragment
-
-
 # Learning
 
 ## TODO:
