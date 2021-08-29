@@ -7,6 +7,10 @@
 
 <https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04>
 
+## SSL
+
+- [ ] <https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04>
+
 ## nodejs 
 ```
 cd ~
