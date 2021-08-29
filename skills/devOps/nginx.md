@@ -2,6 +2,8 @@
 
 - [x] [Setup nGinx with server blocks](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04#step-5-setting-up-server-blocks-(recommended))
 
+- [ ] [Setup SSL with let's incrypt](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
+
 
 # dirs
 
