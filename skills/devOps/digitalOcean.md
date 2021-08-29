@@ -21,6 +21,46 @@ nodejs -v
 <https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps>
 
 ```
+pm2 startup ubuntu
+```
+
+create ecosystem by 
+
+```
+pm2 ecosystem
+```
+
+edit `~/ecosystem.config.js`
+
+```
+ module.exports = {
+   "apps": [
+     {
+       "name": "d-cloud",
+       "script": "npm",
+       "args": "--prefix /var/www/server_app/dg-cloud-app/ run start"
+     }
+   ]
+ };
+```
+
+start PM2
+
+```
+pm2 start ecosystem.config.js
+```
+
+```
+pm2 save
+```
+
+```
+/// Optional
+sudo ln -s "$NVM_DIR/versions/node/$(nvm version)/bin/node" "/usr/local/bin/node"
+sudo ln -s "$NVM_DIR/versions/node/$(nvm version)/bin/npm" "/usr/local/bin/npm"
+```
+
+```
 [PM2] Spawning PM2 daemon with pm2_home=/home/dfire/.pm2
 [PM2] Restoring processes located in /home/dfire/.pm2/dump.pm2
 [PM2] Process /home/dfire/business/dg-dfire-server/app.js restored
