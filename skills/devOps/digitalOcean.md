@@ -17,6 +17,9 @@ nodejs -v
 ```
 
 ## pm2
+
+<https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps>
+
 ```
 [PM2] Spawning PM2 daemon with pm2_home=/home/dfire/.pm2
 [PM2] Restoring processes located in /home/dfire/.pm2/dump.pm2
