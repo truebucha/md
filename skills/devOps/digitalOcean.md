@@ -70,3 +70,23 @@ sudo npm install pm2@latest -g
 pm2 startup systemd
 pm2 start hello.js
 ```
+
+### Still have issues
+
+```
+WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+```
+
+<https://github.com/lorenwest/node-config/wiki/Strict-Mode>
+
+<https://pm2.keymetrics.io/docs/usage/environment/>
+
+maybe we should create `default-{NODE_APP_INSTANCE}.json` in the `config` directory of the project
+
+with contents
+```
+{}
+```
