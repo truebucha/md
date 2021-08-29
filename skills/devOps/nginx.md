@@ -1,3 +1,8 @@
+# guides
+
+- [x] [Setup nGinx with server blocks](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04#step-5-setting-up-server-blocks-(recommended))
+
+
 # dirs
 
 * /etc/nginx/
