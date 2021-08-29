@@ -16,6 +16,20 @@ sudo apt install nodejs
 nodejs -v
 ```
 
+## SSL
+
+<https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx>
+
+```
+sudo snap install core; sudo snap refresh core
+sudo snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo certbot --nginx
+
+sudo certbot renew --dry-run
+
+```
+
 ## pm2
 
 <https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps>
