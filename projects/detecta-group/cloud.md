@@ -1,11 +1,16 @@
 ## digital ocean
 
+# dfire user
 ```
 ssh dfire-do 
 ```
 that uses public key: doTest
 
 for user: dfire | pwd: dreamIsCloud#1
+
+# MySql
+
+root sqlIsCloud#1root
 
 ## sites repos
 
