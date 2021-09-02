@@ -23,12 +23,16 @@
 
 ```
 sudo systemctl daemon-reload // looks like redundant
-sudo systemctl restart nginx
+sudo systemctl reload nginx
 ```
 
 ## status
 
 `sudo systemctl status nginx.service`
+
+## check config
+
+`sudo nginx -t`
 
 ## config
 
