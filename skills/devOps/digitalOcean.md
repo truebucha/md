@@ -7,6 +7,12 @@
 
 <https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04>
 
+<https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04>
+
+## php-fpm
+
+`ps aux | grep php-fpm`
+
 ## nodejs 
 ```
 cd ~
