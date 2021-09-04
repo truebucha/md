@@ -31,9 +31,8 @@ sudo dpkg-reconfigure mysql-server-5.5
 
 ```
 mysql -u root -p
-CREATE DATABASE databasename;
-GRANT ALL PRIVILEGES ON databasename.* TO 'UserName'@'localhost' IDENTIFIED BY 'User Password';
+CREATE DATABASE database_name;
+CREATE USER 'user_name'@'localhost' IDENTIFIED WITH mysql_native_password BY 'user_password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'user_name'@'localhost';
 FLUSH PRIVILEGES;
 ```
-
-`CREATE USER 'test'@'localhost' IDENTIFIED BY 'User Password'`
