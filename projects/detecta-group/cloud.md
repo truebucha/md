@@ -18,6 +18,8 @@ database: dg_site_database
 
 user: dg_site_user openWorld$2ToOpportunity#1
 
+tables prefix: dg_
+
 ## sites repos
 
 * landing page -> <https://github.com/truebucha/dg-landing-main>
