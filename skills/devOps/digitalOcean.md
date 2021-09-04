@@ -43,6 +43,10 @@ listen.group = dfire
 
 * `sudo apt install libfcgi-bin`
 
+* `access.log = /var/log/$pool.access.log`
+
+`cat /var/log/www.access.log`
+
 then 
 
 ```
