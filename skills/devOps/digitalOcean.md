@@ -17,6 +17,16 @@
 
 * `ps aux | grep php-fpm`
 
+* edit `/etc/php/7.4/fpm/pool.d/www.conf` www-data
+
+```
+user = dfire
+group = dfire
+;listen.owner = www-data
+;listen.group = www-data
+listen.acl_users = dfire
+```
+
 * `listen.acl_users = apache,nginx,myuser`
 
 * `sudo apt install libfcgi-bin`
