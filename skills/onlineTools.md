@@ -5,3 +5,7 @@
 https://jsonplaceholder.typicode.com/guide/
 
 ### <https://proxyman.io>
+
+### <https://www.digitalocean.com>
+
+### https://www.terraform.io
