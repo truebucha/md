@@ -34,7 +34,9 @@ repo: <https://github.com/truebucha/dg-landing-main>
 
 ## dg-Site `/var/www/dg-site`
 
-location: /s
+location: /s <https://detecta.group/s>
 
 wordpre user: composer 901#0VFGdDb7wjjgwn
+
+<https://detecta.group/s/wp-login.php>
 
