@@ -9,6 +9,10 @@
 
 <https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04>
 
+## User by process PID
+
+`ps -u -p 61978`
+
 ## users and groups list
 
 `compgen -u`
