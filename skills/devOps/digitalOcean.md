@@ -9,22 +9,30 @@
 
 <https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04>
 
+## users and groups list
+
+`compgen -u`
+
+`compgen -g`
+
 ## php-fpm
 
-* config `/etc/php/7.4/fpm/pool.d`
+* `systemctl status php7.4-fpm.service`
+
+* `systemctl restart php7.4-fpm`
 
 * run location `/run/php/php7.4-fpm.sock`
 
 * `ps aux | grep php-fpm`
 
-* edit `/etc/php/7.4/fpm/pool.d/www.conf` www-data
+* edit `cd /etc/php/7.4/fpm/pool.d` `www.conf` default user -> www-data
 
 ```
-user = dfire
-group = dfire
-;listen.owner = www-data
-;listen.group = www-data
-listen.acl_users = dfire
+user = www-data
+group = www-data
+listen.owner = dfire
+listen.group = dfire
+;listen.acl_users = dfire not working ?? why
 ```
 
 * `listen.acl_users = apache,nginx,myuser`
