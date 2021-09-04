@@ -113,6 +113,7 @@ server {
         location ~ \.php$ {
             try_files $uri =404;
             fastcgi_pass unix:/run/php/php7.4-fpm.sock;
+            fastcgi_split_path_info       ^(.+\.php)(.*)$;
             include fastcgi_params;
             fastcgi_index  index.php;
             fastcgi_param  SCRIPT_FILENAME  $request_filename;
