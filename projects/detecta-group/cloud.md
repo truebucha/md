@@ -20,13 +20,21 @@ user: dg_site_user openWorld$2ToOpportunity#1
 
 tables prefix: dg_
 
-## sites repos
+# Sites
 
-* landing page -> <https://github.com/truebucha/dg-landing-main>
+## d-cloud app `/var/www/server_app/dg-cloud-app`
 
-## sites on server 
+location: /api/1
 
-* d-cloud app `/var/www/server_app/dg-cloud-app`
+## landing `/var/www/dg-landing-main`
 
-* landing `/var/www/dg-landing-main`
+location: /
+
+repo: <https://github.com/truebucha/dg-landing-main>
+
+## dg-Site `/var/www/dg-site`
+
+location: /s
+
+wordpre user: composer 901#0VFGdDb7wjjgwn
 
