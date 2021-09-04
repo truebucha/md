@@ -10,7 +10,13 @@ for user: dfire | pwd: dreamIsCloud#1
 
 # MySql
 
-root sqlIsCloud#1root
+user: root sqlIsCloud#1root
+
+## dg-site
+
+database: dg_site_database
+
+user: dg_site_user openWorld$2ToOpportunity#1
 
 ## sites repos
 
