@@ -16,10 +16,24 @@ all other options -> YES
 
 * `SELECT user,authentication_string,plugin,host FROM mysql.user;`
 
-* `ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';`
+* `ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your new password';`
 
-## Create User
+* `FLUSH PRIVILEGES;`
 
-* `mysql -u root -p`
+# Reconfigure
 
-*
+```
+dpkg --get-selections | grep sql
+sudo dpkg-reconfigure mysql-server-5.5
+```
+
+## Create User and Database
+
+```
+mysql -u root -p
+CREATE DATABASE databasename;
+GRANT ALL PRIVILEGES ON databasename.* TO 'UserName'@'localhost' IDENTIFIED BY 'User Password';
+FLUSH PRIVILEGES;
+```
+
+`CREATE USER 'test'@'localhost' IDENTIFIED BY 'User Password'`
