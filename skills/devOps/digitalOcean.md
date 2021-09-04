@@ -11,7 +11,13 @@
 
 ## php-fpm
 
-`ps aux | grep php-fpm`
+* config `/etc/php/7.4/fpm/pool.d`
+
+* run location `/run/php/php7.4-fpm.sock`
+
+* `ps aux | grep php-fpm`
+
+* `listen.acl_users = apache,nginx,myuser`
 
 ## nodejs 
 ```
