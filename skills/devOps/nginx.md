@@ -102,25 +102,22 @@ server {
         deny all;
     }
     location / {
-        location ~ \.css {
-            add_header  Content-Type    text/css;
-        }
         try_files $uri $uri/ =404;
     }
-    location /api/1/ {
-        proxy_pass http://localhost:3030/;
-    }
-    location /s {
+    location /s/ {
         index index.php index.html index.htm;
         alias /var/www/dg-site/;
         location ~ \.php$ {
             try_files $uri =404;
             fastcgi_pass unix:/run/php/php7.4-fpm.sock;
-            fastcgi_split_path_info       ^(.+\.php)(.*)$;
+	    fastcgi_split_path_info       ^(.+\.php)(.*)$;
             include fastcgi_params;
             fastcgi_index  index.php;
-            fastcgi_param  SCRIPT_FILENAME  $request_filename;
+	    fastcgi_param  SCRIPT_FILENAME  $request_filename;
         }
+    }
+    location /api/1/ {
+        proxy_pass http://localhost:3030/;
     }
     #location /test {
     #    alias /var/www/test/;
@@ -133,17 +130,12 @@ server {
     #}
 }
 server {
+    listen 80;
+    listen [::]:80;
     server_name www.detecta.group detecta.group;
-    listen 80 ;
-    listen [::]:80 ;
-    if ($host = detecta.group) {
-        return 301 https://$host$request_uri;
-    } # managed by Certbot
-
-    if ($host = www.detecta.group) {
-        return 301 https://$host$request_uri;
-    } # managed by Certbot
-    return 404; # managed by Certbot
+    location /api/1/ {
+        proxy_pass http://localhost:3030/;
+    }
 }
 ```
 
