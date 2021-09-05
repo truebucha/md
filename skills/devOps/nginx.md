@@ -92,18 +92,13 @@ server {
     index index.html index.htm index.nginx-debian.html;
     root /var/www/dg-landing-main;
 
-    # fix css request without Content-Type
-    #location ~ \.css {
-    #    add_header  Content-Type    text/css;
-    #}
-    # location ~ \.js {
-    #    add_header  Content-Type    application/x-javascript;
-    #}
-
     location ~ /\.ht {
         deny all;
     }
     location / {
+        location ~ \.css {
+            add_header  Content-Type    text/css;
+        }
         try_files $uri $uri/ =404;
     }
     location /api/1/ {
