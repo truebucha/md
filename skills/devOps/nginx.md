@@ -34,6 +34,12 @@ sudo systemctl reload nginx
 
 `sudo systemctl status nginx.service`
 
+## logs
+
+`cat /var/log/nginx/access.log`
+
+`cat /var/log/nginx/error.log`
+
 ## check config
 
 `sudo nginx -t`
