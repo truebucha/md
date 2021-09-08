@@ -1,3 +1,5 @@
+```
+
 server {
     listen [::]:443 ssl ipv6only=on; # managed by Certbot
     listen 443 ssl; # managed by Certbot
@@ -52,3 +54,4 @@ server {
         return 301 https://$host$request_uri;
     }
 }
+```
