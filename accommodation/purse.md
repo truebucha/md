@@ -15,17 +15,17 @@ $200
  
 # PKO bank
  
- PLN 4252
+ PLN 1797
  
- USD 3050,24
+ USD 3048
  
- EUR -1,57
+ EUR -3,15
  
 # M bank
 
-PLN 350
+PLN 0
 
-USD 6788,26
+USD 12718
 
 # Salary 
 
