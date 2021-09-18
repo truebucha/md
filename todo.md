@@ -18,3 +18,7 @@ copy_if(assets.begin(), assets.end(), back_inserter(photos), [] (shared_ptr<Medi
 });
 ```
 
+Christian Rosenkreuz
+
+Блаватская, Елена Петровна
+
