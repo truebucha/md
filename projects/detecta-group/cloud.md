@@ -8,7 +8,12 @@ that uses public key: doTest
 
 for user: dfire | pwd: dreamIsCloud#1
 
+sudo su -l www-data -s /bin/bash
+
 # MySql
+
+
+mysql -u root -p
 
 user: root sqlIsCloud#1root
 
