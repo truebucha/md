@@ -15,9 +15,9 @@
  
 # PKO bank
  
- PLN 5266
+ PLN 7219
  
- USD 2000
+ USD 7677
  
  EUR 13,75
  
