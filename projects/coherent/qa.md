@@ -20,3 +20,11 @@
 
 * <https://qa-coherent.qa.truu.ai/portal/login>
 
+
+## stage mail <http://mail.coh-test.xyz/mail>
+
+ivany@coh-test.xyz
+
+Passwd_26
+
+localhost
