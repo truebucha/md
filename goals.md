@@ -2,7 +2,7 @@
 
 # Single shot Tasks 
 
-- [ ] change email on Pet projects to kanstantsin.bucha@icloud.com
+- [x] change email on Pet projects to kanstantsin.bucha@icloud.com
 - [ ] add haptic to the pet app
 - [ ] filter membrane for parents
 - [ ] Arsenij birthday present
