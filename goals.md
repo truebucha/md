@@ -12,6 +12,12 @@
 - [ ] nasal spray 
 - [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
+- [ ] print all docs
+- [ ] send all docs to Twoj Startup
+- [ ] buy more paper
+- [ ] buy winter jacket
+- [ ] buy throusers for home
+- [ ] buy new jeans
 
 # Goals
 
