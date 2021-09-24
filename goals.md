@@ -18,6 +18,7 @@
 - [ ] buy winter jacket
 - [ ] buy throusers for home
 - [ ] buy new jeans
+- [ ] setup wordpress for Holyfi.org
 
 # Goals
 
@@ -25,6 +26,7 @@
 * thinking in english (Oct 4)
 * using conversational approach (Oct 4)
 * no porn after 8 PM (Oct 4)
+* 
 * spend 100-200 zl on new projects, tools or learning (dec 1)
 * evaluate every thing as easy until you will try it and have actual data (1 dec)
 
