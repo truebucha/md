@@ -26,6 +26,7 @@
 * using conversational approach (Oct 4)
 * no porn after 8 PM (Oct 4)
 * spend 100-200 zl on new projects, tools or learning (dec 1)
+* evaluation as difficult only after closer look
 
 # M T W T F S S 
 # A B A B A C C
