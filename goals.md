@@ -21,9 +21,11 @@
 
 # Goals
 
-* 3 week without sex (Oct 4)
-* 1 week thinking in english
-* 1 week using conversational approach
+* no masturbation (Oct 4)
+* thinking in english (Oct 4)
+* using conversational approach (Oct 4)
+* no porn after 8 PM (Oct 4)
+* spend 100-200 zl on new projects, tools or learning (dec 1)
 
 # M T W T F S S 
 # A B A B A C C
