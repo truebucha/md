@@ -18,6 +18,7 @@
 - [ ] buy winter jacket
 - [ ] buy throusers for home
 - [ ] buy new jeans
+- [ ] check doors repo
 
 # Goals
 
