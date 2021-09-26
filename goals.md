@@ -5,23 +5,36 @@
 - [ ] print twoj startup docs
 - [ ] send all docs to Twoj Startup
 
+----
+
 - [ ] setup ssl for Holyfi.org
 
+----
+
+- [ ] Check Andrey's progress 
 - [ ] Arsenij birthday present
 - [ ] check doors repo
 - [ ] add haptic to the pet app
 - [ ] filter membrane for parents
 - [ ] Look into domain driven desighn
 
+----
+
 - [ ] setup wordpress for Holyfi.org
+
+----
 
 - [ ] write to the laybour commite
 - [ ] nasal spray from china
 - [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
 
+----
+
 - [ ] buy winter jacket
 - [ ] buy new jeans
+
+----
 
 - [x] buy more paper
 - [x] buy throusers for home
