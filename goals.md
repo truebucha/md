@@ -2,24 +2,31 @@
 
 # Single shot Tasks 
 
-- [x] change email on Pet projects to kanstantsin.bucha@icloud.com
+- [ ] print twoj startup docs
+- [ ] send all docs to Twoj Startup
+
+- [ ] setup ssl for Holyfi.org
+
+- [ ] Arsenij birthday present
+- [ ] check doors repo
 - [ ] add haptic to the pet app
 - [ ] filter membrane for parents
-- [ ] Arsenij birthday present
 - [ ] Look into domain driven desighn
-- [ ] holify religios site
+
+- [ ] setup wordpress for Holyfi.org
+
 - [ ] write to the laybour commite
-- [ ] nasal spray 
+- [ ] nasal spray from china
 - [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
-- [ ] print all docs
-- [ ] send all docs to Twoj Startup
-- [ ] buy more paper
+
 - [ ] buy winter jacket
-- [ ] buy throusers for home
 - [ ] buy new jeans
-- [ ] check doors repo
-- [ ] setup wordpress for Holyfi.org
+
+- [x] buy more paper
+- [x] buy throusers for home
+- [x] holify religios site
+- [x] change email on Pet projects to kanstantsin.bucha@icloud.com
 
 # Goals
 
