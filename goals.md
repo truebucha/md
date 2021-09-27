@@ -2,7 +2,6 @@
 
 # Single shot Tasks 
 
-- [ ] print twoj startup docs
 - [ ] send all docs to Twoj Startup
 
 ----
@@ -40,6 +39,7 @@
 - [x] buy throusers for home
 - [x] holify religios site
 - [x] change email on Pet projects to kanstantsin.bucha@icloud.com
+- [x] print twoj startup docs
 
 # Goals
 
@@ -63,7 +63,7 @@
 * Do holding a gun for 3 min 3 times
 * 5 min reminding all conversational steps
 * 10 min social networking at launch - looking for a sex partner
-* Learning Languages 15 min 3 times ( Duolingo )
+* Learning Languages 15 min 3 times ( Duolingo, Quizlet )
 * 30 min Pet project: (iOS)
 * 15 min Pet project: (C++)
 * 10 min Plan Goals
@@ -78,7 +78,7 @@
 * Do holding a gun for 3 min 3 times
 * 5 min reading about conversational trainings
 * 10 min social networking at launch - looking for a sex partner
-* Learning Languages 15 min 3 times ( Duolingo )
+* Learning Languages 15 min 3 times ( Duolingo, Quizlet )
 * 30 min Pet project: (Android)
 * 15 min Pet project: (Type Script - Vue or nodejs)
 * 10 min Plan shopping
