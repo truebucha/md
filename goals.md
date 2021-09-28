@@ -2,7 +2,8 @@
 
 # Single shot Tasks 
 
-- [ ] send all docs to Twoj Startup
+- [ ] write inToCoach (focus coach, goal coach)
+
 
 ----
 
@@ -23,7 +24,7 @@
 
 ----
 
-- [ ] write to the laybour commite
+- [x] write to the laybour commite
 - [ ] nasal spray from china
 - [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
@@ -40,6 +41,7 @@
 - [x] holify religios site
 - [x] change email on Pet projects to kanstantsin.bucha@icloud.com
 - [x] print twoj startup docs
+- [x] send all docs to Twoj Startup
 
 # Goals
 
