@@ -3,7 +3,7 @@
 # Single shot Tasks 
 
 - [ ] write inToCoach (focus coach, goal coach)
-
+- [ ] apply to green card
 
 ----
 
