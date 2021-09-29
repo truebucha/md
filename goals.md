@@ -2,6 +2,7 @@
 
 # Single shot Tasks 
 
+- [ ] write Dmitry about group count
 - [ ] write inToCoach (focus coach, goal coach)
 - [ ] apply to green card
 
