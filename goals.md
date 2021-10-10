@@ -4,6 +4,9 @@
 
 - [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
+- [ ] review core data knowledges
+- [ ] learn basics of swift UI
+- [ ] learn basics of android
 
 ----
 
