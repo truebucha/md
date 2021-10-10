@@ -2,11 +2,15 @@
 
 # Single shot Tasks 
 
-- [ ] move knowledge from the Growth project to the md
 - [ ] cleanup md
 - [ ] review core data knowledges
 - [ ] learn basics of swift UI
 - [ ] learn basics of android
+- [ ] create cv online
+- [ ] learn basic of rust
+- [ ] learn basic of vue.js
+- [ ] cv in svelte and push on server
+- [ ] learn to create electric circuit boards and buy them produced
 
 ----
 
