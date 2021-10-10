@@ -2,7 +2,11 @@
 
 # Single shot Tasks 
 
-- [ ] write Dmitry about group count
+- [ ] move knowledge from the Growth project to the md
+- [ ] cleanup md
+
+----
+
 - [ ] write inToCoach (focus coach, goal coach)
 - [ ] apply to green card
 
@@ -12,8 +16,6 @@
 
 ----
 
-- [ ] Check Andrey's progress 
-- [ ] Arsenij birthday present
 - [ ] check doors repo
 - [ ] add haptic to the pet app
 - [ ] filter membrane for parents
@@ -25,24 +27,7 @@
 
 ----
 
-- [x] write to the laybour commite
 - [ ] nasal spray from china
-- [ ] move knowledge from the Growth project to the md
-- [ ] cleanup md
-
-----
-
-- [ ] buy winter jacket
-- [ ] buy new jeans
-
-----
-
-- [x] buy more paper
-- [x] buy throusers for home
-- [x] holify religios site
-- [x] change email on Pet projects to kanstantsin.bucha@icloud.com
-- [x] print twoj startup docs
-- [x] send all docs to Twoj Startup
 
 # Goals
 
