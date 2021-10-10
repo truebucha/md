@@ -1,0 +1,1 @@
+It is obvious that people react not on my actions, but on perceptions of how my actions is related to their Ego(Persona). They decide if I treat them well enough. Then react in accordance with the sentence.
