@@ -1,4 +1,6 @@
 
+When child criticized for beeing himself he create wrong vision that he is not loved as he is. He try to change himself to be fully acceptable anb loved by others(everyone). He adopt a role, that as mask - persona- has all best values he think make people love him. This mask became Ego at some point.
+
 # upbringing 
 
 4 периода в воспитании детей
