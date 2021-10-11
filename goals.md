@@ -2,6 +2,9 @@
 
 # Single shot Tasks 
 
+- [ ] leadership training
+- [ ] interview methods training
+
 - [ ] cleanup md
 - [ ] review core data knowledges
 - [ ] learn basics of swift UI
