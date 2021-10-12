@@ -11,17 +11,17 @@
  
 # PKO bank
  
- PLN 7219
+ PLN 4359 (-2860)
  
- USD 7677
+ USD 7006 (-600)
  
- EUR 13,75
+ EUR 12,19
  
 # M bank
 
 PLN 0
 
-USD 12718
+USD 11629
 
 # Salary 
 
@@ -31,7 +31,7 @@ October 4.8k -> ?
 
 # Lida Flat
 
-оплачен август
+оплачен сентябрь
 
 2020
 
