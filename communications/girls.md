@@ -1,3 +1,15 @@
+# how to meet a girl
+
+0 Don't talk about or mention a fucking (until gilr start it first)
+
+1 Talk about something funny, follow the lead -> find a way to call her
+2 Talk with she by phone, find a way too meet with she
+3 Take she by hand, arm, hug her -> find a way to kiss her.
+4 Move to the place where you will be alone with she -> hug she and start kissing.
+5 If the place safe enough -> sex will go next
+
+## How to lead a girl
+
 1. когда она злая и уходит — иди за ней 
 2. когда она внимательно смотрит на твои губы — поцелуй её 
 3. когда она тебя отталкивает — держи её и не отпускай 
