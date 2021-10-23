@@ -2,11 +2,11 @@
 
 0 Don't talk about or mention a fucking (until gilr start it first)
 
-1 Talk about something funny, follow the lead -> find a way to call her
-2 Talk with she by phone, find a way too meet with she
-3 Take she by hand, arm, hug her -> find a way to kiss her.
-4 Move to the place where you will be alone with she -> hug she and start kissing.
-5 If the place safe enough -> sex will go next
+* Talk about something funny, follow the lead -> find a way to call her
+* Talk with she by phone, find a way too meet with she
+* Take she by hand, arm, hug her -> find a way to kiss her.
+* Move to the place where you will be alone with she -> hug she and start kissing.
+* If the place safe enough -> sex will go next
 
 ## How to lead a girl
 
