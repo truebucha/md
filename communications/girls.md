@@ -2,6 +2,8 @@
 
 0 Don't talk about or mention a fucking (until gilr start it first)
 
+0 If she didn't respond Wait at least 1 day until message her
+
 * Talk about something funny, follow the lead -> find a way to call her
 * Talk with she by phone, find a way too meet with she
 * Take she by hand, arm, hug her -> find a way to kiss her.
