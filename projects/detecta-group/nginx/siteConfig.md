@@ -16,9 +16,9 @@ server {
         deny all;
     }
     location / {
-        try_files $uri $uri/ =404;
+        try_files $uri $uri/ /index.php?$args;
         location ~ \.php$ {
-            try_files $uri =404;
+            try_files $uri $uri/ ;
             fastcgi_pass unix:/run/php/php7.4-fpm.sock;
             fastcgi_split_path_info       ^(.+\.php)(.*)$;
             include fastcgi_params;
