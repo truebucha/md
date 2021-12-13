@@ -15,7 +15,8 @@
 2 
 ```
 // To debug the extension replace `false` with true
-// Go to device console and filter by "NotificationService" in Subsystem or "NotificationService" in Category
+// Go to Console App and connect to mobile device
+// Filter by "NotificationService" in Subsystem or "NotificationService" in Category
 #if true
 import os.log
 let log: (String) -> Void = {
