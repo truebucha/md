@@ -17,12 +17,12 @@
 // To debug the extension replace `false` with true
 // Go to Console App and connect to mobile device
 // Filter by "NotificationService" in Subsystem or "NotificationService" in Category
-#if true
+#if false
 import os.log
 let log: (String) -> Void = {
     os_log(
         "%{public}@",
-        log: OSLog(subsystem: "com.coherentsolutions.truu.ai.NotificationService", category: "NotificationService"),
+        log: OSLog(subsystem: "truu.ai.NotificationService", category: "NotificationService"),
         type: OSLogType.error,
         $0
     )
