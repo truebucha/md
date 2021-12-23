@@ -1,3 +1,14 @@
+# Group Manager
+
+* <https://coherentsolutions.workplace.com/groups/1222767161389011>
+
+* <https://coherentsolutions.workplace.com/groups/645150772554207>
+
+* <https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EeMU5akGyPxPnT0L5YZTj7UB_u9TTVoY1ovrbH_pH4w_bg>
+
+* <https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EcU9DgAHDcRAiEL1L11YyBgBiY3nfZZEhbm_51Q91APKsw>
+
+# Developer
 
 ## Swaggger TruU <https://coh-swagger.docs.internal.truu.ai>
 
