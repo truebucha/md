@@ -8,6 +8,10 @@
 
 * <https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EcU9DgAHDcRAiEL1L11YyBgBiY3nfZZEhbm_51Q91APKsw>
 
+# Passwords
+
+сменить пароль <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>
+
 # Developer
 
 ## Swaggger TruU <https://coh-swagger.docs.internal.truu.ai>
