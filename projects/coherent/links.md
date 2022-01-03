@@ -12,6 +12,12 @@
 
 сменить пароль <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>
 
+# VPN
+
+скачать <https://vpn-by.coherentsolutions.com>
+
+в cisco anyconnect `vpn-by.coherentsolutions.com`
+
 # Developer
 
 ## Swaggger TruU <https://coh-swagger.docs.internal.truu.ai>
