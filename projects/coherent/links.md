@@ -1,5 +1,9 @@
 # Group Manager
 
+* <https://group.issoft.by/my-group>
+
+* <https://salary.issoft.by/sign-in>
+
 * <https://coherentsolutions.workplace.com/groups/1222767161389011>
 
 * <https://coherentsolutions.workplace.com/groups/645150772554207>
