@@ -1,3 +1,15 @@
+# Stage: Kibana: Elastic search logs 
+
+<https://coh.logs.internal.truu.ai/_plugin/kibana/app/discover>
+
+<https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcoh.logs.internal.truu.ai%2F_plugin%2Fkibana%2Fapp%2Fdiscover&data=04%7C01%7CAlexeyBarantsevich%40coherentsolutions.com%7C010451154a0f4404e3e808d8dce86a1c%7C81915a7774c44370a6f97e5e66322233%7C0%7C0%7C637502238078679308%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jTL0pxVwWN6BO1OhhVWBZXI%2FN%2BK%2B%2F3Vc6Lta%2F%2BYfLhw%3D&reserved=0>
+
+<https://coh.logs.internal.truu.ai/_plugin/kibana/app/discover#/>
+
+# Birthday Gifts Desires
+
+* <https://docs.google.com/forms/d/e/1FAIpQLScGNVHCiTFW2KfwVKHrdNmWppS20CBojj-BY3gscfdQwQnK8g/formResponse>
+
 # Group Manager
 
 * <https://group.issoft.by/my-group>
@@ -69,3 +81,31 @@ pass for key Hello123!!
 * Team TruU - QA <teamtruu-qa@coherentsolutions.com>
 
 * Team TruU - WA <teamtruu-wa@coherentsolutions.com>
+
+# Docs
+
+[Open source license types](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/ES4FDFDa-QZJv5OfYTsmZiwBYjVjJFUqTH0dKuzbVYZ2EA)
+
+[Information Sequrity Policy](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/ES4FDFDa-QZJv5OfYTsmZiwBYjVjJFUqTH0dKuzbVYZ2EA)
+
+[Onboarding Rolloff checklists](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/ETjl4xXExulGoRlobRS2XlUBRB_9R4hp7E65TcKMQi0lyg)
+
+[Cloud services](https://coherentsolutions.sharepoint.com/:x:/s/corporate/general/EVjgvAkipm5ErYg-HPmzeRYBbu-zPoKZmM4xWM4Ou2v2FA)
+
+[SDLC workflow](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EfjZDZRpLEJKtB9NqRr7pI0BpufHmGoIfod58o7n0DN8jw)
+
+[Incident Management](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EWOUXgoZBu9IjPXkThtumboBkIBc3RBwZ9c9NjHtRkuIjQ)
+
+[Mobile Devices Management](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/ESETEN9CKhREtmQh1mBBKHcBj_6xunbKotjlC79DOEoY8Q)
+
+[Info Sec User Guide](https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EfRRD_h_Va5AmV5LLKCZTwYB-U_TSOpOAB3yzwjEsd8llw)
+
+[Info sequrity](https://coherentsolutions.workplace.com/groups/256893081613035/)
+
+# Helpdesc
+
+mailto:helpdesk@coherentsolutions.com
+
+csi.dmitryborodulya
+
+csi.sergeyvoronin
