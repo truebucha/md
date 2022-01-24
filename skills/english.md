@@ -1,5 +1,6 @@
 # Tests with grammar
 
+* <https://learnenglish.britishcouncil.org/grammar/beginner-to-pre-intermediate>
 * <https://test-english.com>
 * <https://quizlet.com/>
 
@@ -13,9 +14,10 @@ I'm afraid We are out of this model.
 
 ## matching
 
-1 b)
-2 e)
-3 c)
-4 d)
-5 a)
-6 f)
+know who you a writting
+use flattery 
+don't lose your temper
+don't be to specific about benefits
+
+
+yours sincirely
