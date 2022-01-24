@@ -20,4 +20,18 @@ don't lose your temper
 don't be to specific about benefits
 
 
-yours sincirely
+
+
+# letter example 
+
+Dear Ms Adams,
+
+I am writing to express my dismay at the delivery and customer service.
+
+I havent receive my purchase in 48 hours as it was described on the site. I am dissatisfied with a customer service too.
+
+I hope you can take steps to make sure that I get my purchase in a day or two.
+
+Yours faithfully, [yours sincirely]
+
+Chris Mason
