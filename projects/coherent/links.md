@@ -24,6 +24,12 @@
 
 * <https://coherentsolutions.sharepoint.com/:w:/s/corporate/general/EcU9DgAHDcRAiEL1L11YyBgBiY3nfZZEhbm_51Q91APKsw>
 
+## Salary manager
+
+* Instruction <https://coherentsolutions.sharepoint.com/:w:/r/sites/corporate/general/_layouts/15/guestaccess.aspx?share=Ef8kwokzn4ZHh8df97K1KKkBtJZrzMdPKAX3Bxv6zgFk8w>
+
+* Workspace group <https://coherentsolutions.workplace.com/groups/1222767161389011>
+
 # Passwords
 
 сменить пароль <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>
