@@ -9,7 +9,7 @@
 
 - [ ] think outside the box
 - [ ] relaxed attitude and beeing open to changes
-- [ ] act quickly (do what you live to do)
+- [ ] act quickly (do things you are prised for, not you like to do)
 - [ ] future will be positive. Try no matter what
 - [ ] keep going, learn from succeeds and mistakes
 
