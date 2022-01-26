@@ -35,3 +35,13 @@ I hope you can take steps to make sure that I get my purchase in a day or two.
 Yours faithfully, [yours sincirely]
 
 Chris Mason
+
+# Fortune, luck, bad luck
+
+bring fortune - make a lot of money
+
+A 5
+B 1
+C 3
+D 4
+E 2
