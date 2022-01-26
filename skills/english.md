@@ -20,8 +20,6 @@ don't lose your temper
 don't be to specific about benefits
 
 
-
-
 # letter example 
 
 Dear Ms Adams,
@@ -40,8 +38,4 @@ Chris Mason
 
 bring fortune - make a lot of money
 
-A 5
-B 1
-C 3
-D 4
-E 2
+sheer luck
