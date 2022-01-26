@@ -6,3 +6,10 @@
 - [ ] | NG iOS | auto-lock triggered while working at computer <https://truudev.atlassian.net/browse/WA-8086>
 
 - [ ] | MA | QA-1 support
+
+
+
+# Retrospective
+
+* Nikita. stories in sprint are dependent on each other and block the develop process
+* 
