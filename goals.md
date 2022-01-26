@@ -2,7 +2,7 @@
 
 - [ ] Make small PRS
 - [ ] Keep implementation simple (KISS)
-- [ ] Cheer leader - raise good before go to correction
+- [ ] Cheer leader - raise good and opportunities before go to correction, role, required actions
 - [ ] Do Smalltalks
 
 ## Live goals
