@@ -5,7 +5,7 @@
 - [ ] Cheer leader - raise good before go to correction
 - [ ] Do Smalltalks
 
-## Dayli goals
+## Live goals
 
 - [ ] think outside the box
 - [ ] relaxed attitude and beeing open to changes
@@ -18,7 +18,7 @@
 - [ ] nasal spray from china
 - [ ] Congrats Gri 
 
-## Life goals
+## Wealth goals
 
 - [ ] bring fortune
 - [ ] fix all cavities in toothes
