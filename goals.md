@@ -17,6 +17,7 @@
 
 - [ ] nasal spray from china
 - [ ] Congrats Gri 
+- [ ] Call to arrange appointment with the doctor Rybinska Katarzyna
 
 ## Wealth goals
 
