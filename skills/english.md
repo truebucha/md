@@ -44,4 +44,24 @@ to talk some sense into somebody
 
 to jump the line - пройти без очереди
 
+to cheer up - 
+
+to save a day - спасти всех
+
+to step in - вмешаться
+
+dometry - общежитие
+
+# 3nd conditional (past action)
+
+If he hadn't drank a lot of beer yesterday, he wouldn't have missed the train
+If he hadn't broken up with his girlfrend, wouldn't have been so upset yesterday
+if Max hadn't hepled me with the logs I wouldn't [ha]ve resolved the issue
+if Leitenant hadn't missed the documents I wouldn't [ha]ve escape the army that year
+if my teacher hadn't missed the documents I wouldn't [ha]ve known how a broken promise fills like
+
+-> If he hadn't drank a lot of beer yesterday (Condition in Past Perfect)
+
+-> he wouldn't have missed the train (Main Sentense)
+
 
