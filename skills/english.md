@@ -39,3 +39,9 @@ Chris Mason
 bring fortune - make a lot of money
 
 sheer luck
+
+to talk some sense into somebody
+
+to jump the line - пройти без очереди
+
+
