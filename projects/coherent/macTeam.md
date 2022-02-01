@@ -1,0 +1,3 @@
+## Hardware UUID
+
+MSQ-NBM-7053 Coherent 729226D7-5C85-5713-B34C-AFBD7581FB8A -> Andrey
