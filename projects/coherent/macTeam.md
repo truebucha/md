@@ -17,4 +17,6 @@
 * MSQ-NBM-7053 Coherent 729226D7-5C85-5713-B34C-AFBD7581FB8A andreysnetkov@coherentsolutions.com
 * Konstantin B Coherent 00006000-0004599C0ED8801E konstantinbucha@coherentsolutions.com
 * PL-PDM-77996 Coherent 00008103-000E51C01EA2001E konstantinbucha@coherentsolutions.com
+* Max V Macbook Air 00008103-0001490E14DA001E
+* Max V Macbook Pro 2A43AAD4-2CCF-5FDE-8A6F-EFA255D485FC
 
