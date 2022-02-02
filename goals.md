@@ -10,6 +10,7 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 ## Live goals
 
 - [ ] think outside the box
+- [ ] do acts 7m and rethink 3m during life
 - [ ] relaxed attitude and beeing open to changes
 - [ ] act quickly (do things you are prised for, not you like to do)
 - [ ] future will be positive. Try no matter what
