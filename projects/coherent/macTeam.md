@@ -20,3 +20,10 @@
 * Max V Macbook Air 00008103-0001490E14DA001E
 * Max V Macbook Pro 2A43AAD4-2CCF-5FDE-8A6F-EFA255D485FC
 
+* Slava K Coherent 661AF73B-8294-542F-9FF9-CB85A60F7262 slavakupreev@coherentsolutions.com
+* Anna G Coherent 4B72A2FF-5DEB-526B-B54E-DF4103531C44 annagoman@coherentsolutions.com
+
+* MSQ-WSM-3179 75E826C5-2158-5EE1-BA2C-24D390EAA2B2 alexanderseledchik@coherentsolutions.com
+* MSQ-NBM-7630 Coherent 0826A5C1-FB38-57E8-8958-9155D1F2B45C olgaklimovich@coherentsolutions.com
+
+
