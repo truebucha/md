@@ -18,11 +18,14 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 
 ----
 
+- [ ] <https://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-2-hall-fame-guidance>
+
 - [ ] nasal spray from china
 - [ ] Congrats Gri 
 - [ ] Call to arrange appointment with the doctor Rybinska Katarzyna
 - [ ] Mythical man-month book
-- [ ] 
+- [ ] The Hard Thing About Hard Things book
+- [ ] Humanware--Practical Usability Engineering.
 
 ## Wealth goals
 
