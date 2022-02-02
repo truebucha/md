@@ -47,6 +47,8 @@
 * Kseniya
 * Egor 
 
+# Managers
+
 * Olga
 * Tracey
 * Chris
