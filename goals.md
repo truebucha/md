@@ -20,6 +20,8 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 - [ ] nasal spray from china
 - [ ] Congrats Gri 
 - [ ] Call to arrange appointment with the doctor Rybinska Katarzyna
+- [ ] Mythical man-month book
+- [ ] 
 
 ## Wealth goals
 
