@@ -18,6 +18,8 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 
 ----
 
+- [ ] send invoice to coherent
+
 - [ ] <https://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-2-hall-fame-guidance>
 
 - [ ] nasal spray from china
