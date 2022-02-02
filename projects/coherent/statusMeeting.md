@@ -1,44 +1,56 @@
 # WA team
-Олег
-Олег Михальчук
-Саша Полянский
-Саша Бондаренко
-Алекс
+
+* Oleg
+* Dmitry
+* Oleg Mihalchuk
+* Alexander Polyansky
+* Alexander Bondarenko
+* Alex
 
 # MA 
-  Слава
-  Андрей
-  Аня
-  Кори
-  Хью
+
+* Andrey
+* Anna
+* Slava
+* Hugh
+* Kori
+* Darya
   
 # Mobile 
-  Konstantin
-  Anton
-  Michael
-  Nikita
-  Shon
-  Noa
+
+* Konstantin
+* Michael
+* Martin
+* Anton
+* Nikita
+* Shawn
+* Noa
+* Adam
+* Jirka
   
 # Platform:
-  Arthur
-  Joe
-  Dan
-  David
-  Marc
-  Tina
+
+* Arthur
+* Joe
+* Dan Finley
+* Marc
+* David
+* Tina
   
 # Dev ops
-  Alexey
-  Artem
+
+* Alexey
+* Artem
   
 # Automation
-- Egor 
-- Kseniya
 
-- Tracey
-- Chris
-- Max
+* Kseniya
+* Egor 
 
-- Jeff
-- Dave
+* Olga
+* Tracey
+* Chris
+* Max
+
+* Jeff
+* Dave
