@@ -1,3 +1,5 @@
+You've got to think lucky. If you fall into a mudhole, check your back pocket - you might have caught a fish
+
 ## Work goals
 
 - [ ] Make small PRS
