@@ -165,7 +165,9 @@ konstantinbucha @coh-test.xyz @coh-qa.xyzдля стэйджа и для qa со
 
 login into user
 
-in command prompt type certutil -scinfo
+in command prompt type 
+
+`certutil -scinfo`
 
 # Desktop Agent Token Request
 
