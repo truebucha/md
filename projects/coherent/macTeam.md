@@ -1,3 +1,13 @@
+
+## Mac improvements
+
+when I login into mac I provide password once
+then second time for TruU
+in case I exit the TruU i provide it third time
+
+Why TruU can't use the Password I already provided? 
+
+
 ## Hardware UUID
 
 * MSQ-NBM-7053 Coherent 729226D7-5C85-5713-B34C-AFBD7581FB8A -> Andrey
