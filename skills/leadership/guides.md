@@ -13,3 +13,5 @@ you should have a free time to think. 2 hours min
 * plan how to resolve the issue in short term (situation avareness, fast reaction)
 * analytic of root cause and reasoning
 * execution of the preventing measures (training, change of proceses)
+
+- [ ] Learn on mistakes and on doing right. Analyse experience.
