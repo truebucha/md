@@ -14,4 +14,4 @@ you should have a free time to think. 2 hours min
 * analytic of root cause and reasoning
 * execution of the preventing measures (training, change of proceses)
 
-- [ ] Learn on mistakes and on doing right. Analyse experience.
+- [ ] Learn how to be successful when you done well and when do a mistakes also. Analyse experience.
