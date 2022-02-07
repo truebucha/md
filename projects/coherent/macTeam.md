@@ -38,5 +38,7 @@ Why TruU can't use the Password I already provided?
 * MSQ-WSM-3179 75E826C5-2158-5EE1-BA2C-24D390EAA2B2 alexanderseledchik@coherentsolutions.com
 * MSQ-NBM-7630 Coherent 0826A5C1-FB38-57E8-8958-9155D1F2B45C olgaklimovich@coherentsolutions.com
 * MSQ-NBM-7116 Coherent 9905A8E2-28C0-514A-81C0-8393E1AC5DFD igorchupin@coherentsolutions.com
+* MSQ-NBM-5552 Coherent 80604F10-C36C-53D2-9648-490C1F8BB10B DariyaYuchas@coherentsolutions.com
+* MSQ-NBM-8345 Coherent 00006000-0006199921D8801E DariyaYuchas@coherentsolutions.com
 
 
