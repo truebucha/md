@@ -10,18 +10,23 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 
 ## Live goals
 
-- [ ] think outside the box
-- [ ] do acts 7m and rethink 3m during life
+- [ ] awaiting lucky chance
 - [ ] relaxed attitude and beeing open to changes
 - [ ] act quickly (do things you are prised for, not you like to do)
+- [ ] disregard any pitiful thoughts
+
+- [ ] disregard negative perception
 - [ ] future will be positive. Try no matter what
+
+- [ ] do acts 7m and rethink 3m during life
+
+- [ ] think outside the box
 - [ ] keep going, learn from succeeds and mistakes
 
 ----
 
 - [ ] https://developer.apple.com/tutorials/swiftui
 - [ ] invite group members
-- [ ] send invoice to coherent
 
 - [ ] <https://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-2-hall-fame-guidance>
 
