@@ -11,5 +11,5 @@
 
 # Retrospective
 
-* Nikita. stories in sprint are dependent on each other and block the develop process
+* *Really good stories from Chris*
 * 
