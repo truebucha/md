@@ -40,9 +40,29 @@
 
 в cisco anyconnect `vpn-by.coherentsolutions.com`
 
+----
+
 # Developer
 
 ## Swaggger TruU <https://coh-swagger.docs.internal.truu.ai>
+
+## STAGE 
+
+* Cloud Console <https://coherenttest.stage.truu.ai/>
+
+* Cloud domain name `coh-test.xyz`
+
+* Identity Server `cloud.coh-test.xyz`
+
+## QA
+
+* Cloud Console <https://qa-coherent.qa.truu.ai/>
+
+* Cloud domain name `coh-qa.xyz`
+
+* Identity Server `cloud.coh-qa.xyz`
+
+----
 
 # Intacct <https://time.coherentsolutions.com>
 
