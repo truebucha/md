@@ -1,3 +1,6 @@
+# Nastya Lavrischeva - enrolling to English courses
+
+
 # Pavel Klimov
 
 * mail: pavelklimov@coherentsolutions.com
@@ -9,15 +12,14 @@ Your start date on the project is 02/07/22
  Utilization: 100 %
  Billing: Billable
  
-
-salary raise set from $2850 to $3100, 
-
-ask Slava if there some agreement ?
+Should attend english courses (Company or other)
 
 ----
 # Alexey Postoyalko
 
 * mail: alexeypostoyalko@coherentsolutions.com
+
+Team Lead: Andrey Mickevich communicate with customer. So Alexey can learn english during work.
 
 Alexey,
 
@@ -27,6 +29,11 @@ Your start date on the project is 02/07/22
  Role: Developer
  Utilization: 100 %
  Billing: Billable
+ 
+ English: A2
+ Should attend english courses (Company or other)
+ 
+ 
 
 
 
