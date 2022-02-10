@@ -1,5 +1,16 @@
-# Nastya Lavrischeva - enrolling to English courses
+# key persons
 
+* Vladimir Zolotovsky - запись на вневшие курсы
+
+* Nastya Lavrischeva - курсы английского языка
+
+* Nastya Moiseeva - релокейт
+
+* Nastya Kovbovich, Anna Kalesnik - обеды
+
+* Дробышвский - по вопросам инновейшен лаборатории
+
+----
 
 # Pavel Klimov
 
