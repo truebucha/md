@@ -1,6 +1,8 @@
 # link
 
-* <https://www.youtube.com/watch?v=0fJ7IrQ9ICw> Guide into CRM
+* [Guide into CRM](https://www.youtube.com/watch?v=0fJ7IrQ9ICw)
+
+----
 
 
 ## In facture to coherent the exchange rate should be 1 day earlier then the selles date of VAT invoice (facture) 
