@@ -25,6 +25,12 @@ Your start date on the project is 02/07/22
  
 Should attend english courses (Company or other)
 
+Personal Development Plan:
+
+* raise english 
+
+Motivation types: A, C
+
 ----
 # Alexey Postoyalko
 
@@ -43,6 +49,11 @@ Your start date on the project is 02/07/22
  
  English: A2
  Should attend english courses (Company or other)
+ 
+ Personal development plan:
+ * raise english 
+ 
+ Motivation types: C
  
  
 
