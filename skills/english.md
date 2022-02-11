@@ -52,6 +52,8 @@ to step in - вмешаться
 
 dometry - общежитие
 
+----
+
 # 3nd conditional (past action)
 
 * If he hadn't drank a lot of beer yesterday, he wouldn't have missed the train
@@ -65,5 +67,15 @@ dometry - общежитие
 -> If he hadn't drank a lot of beer yesterday (Condition in Past Perfect)
 
 -> he wouldn't have missed the train (Main Sentense - would + present perfect)
+
+---
+
+# Lesson 
+
+I don't like that t-short. neither do I
+
+I don't like ither Trump and Biden
+
+
 
 
