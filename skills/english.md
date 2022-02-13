@@ -72,9 +72,16 @@ dometry - общежитие
 
 # Lesson 
 
-I don't like that t-short. neither do I
+* I don't like that t-short. neither do I
+* I don't like ither Trump and Biden
 
-I don't like ither Trump and Biden
+* as if was true
+* discipline measures
+* revise
+* also (olso)
+* form, year - a bunch of kids in the school that joined the school the same year
+* if: lags behind, then: should catch up with others 
+
 
 ---- 
 
