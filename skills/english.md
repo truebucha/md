@@ -147,10 +147,18 @@ Some activity regular in the past, but is not relevant in present
 
 ----
 
-# Passive Voice
+# Passive Voice - all times
 
 * **Simple Present** English is spoken here (is/am/are + V3) 
- 
+* **Present Continuous** A letter is being written by her (am/is/are beeing + V3)
+* **Present Perfect** A nowel has been written by me (has/have been + V3)
+* **Simple Past** A letter was written by me (was/were + V3)
+* **Past Constinuos** A report was beeing written (was/were being + V3)
+* **Past Perfect** The project had been finished (had been + V3)
+* **Simple Future** This job will be finished by me (will be + V3)
+* **Future Perfect** The problem will have been resolved in time (will have been + V3)
+
+----
 
 
 
