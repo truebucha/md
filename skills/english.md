@@ -76,6 +76,21 @@ I don't like that t-short. neither do I
 
 I don't like ither Trump and Biden
 
+---- 
+
+# Guesses
+
+* Not sure -> might, could, may
+* Sure must(positive) can't be(negative)
+
+## Times
+
+* Continious -> might be loosing ( be + ing )
+* Future -> may fall down ( V1 )
+* Passive -> might be followed ( be + V3 )
+
+----
+
 
 
 
