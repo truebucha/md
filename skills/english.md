@@ -133,7 +133,7 @@ Some activity regular in the past, but is not relevant in present
 **We are going to Germany (present continuous am/is/are + ing)**
 * Definite arrangement
 
-**I think we will go to Germany (future simple will/won't)**
+**I think we will to Germany (future simple will/won't)**
 * A prediction
 * Instant Decision 
 * Promises
