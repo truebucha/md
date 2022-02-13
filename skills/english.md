@@ -79,9 +79,19 @@ dometry - общежитие
 * discipline measures
 * revise
 * also (olso)
-* form, year - a bunch of kids in the school that joined the school the same year
+* form(grade for US), year - a bunch of kids in the school that joined the school the same year
 * if: lags behind, then: should catch up with others 
-
+* neither do I
+* semester
+* head teacher
+* degree in phylosophy
+* boarding shool
+* nurcery -> primary -> secondary school
+* state school
+* you treat the matter lightly, whereas I myself was never more serious
+* stuntman - an person who do the tricks 
+* I got into it -> then keep up with it -> 
+*  A split-off is a corporate reorganization method in which a parent company divests a business 
 
 ---- 
 
@@ -105,11 +115,35 @@ dometry - общежитие
 
 ----
 
-# Used to (useta) - was regular earlier, but not now
+# Talking about past. 
 
+* Used to (useta) - was regular earlier, but not now
+* Didn't use to (didnt useta)
 Some activity regular in the past, but is not relevant in present
 
-* Didn't use to (didnt useta)
+----
+
+# Talking about future/intentions
+
+**We are going togo to Germany. (am/is/are + going to )**
+* Observation -> conclusion;
+* person intentions; 
+* plans; 
+
+**We are going to Germany (present continuous am/is/are + ing)**
+* Definite arrangement
+
+**I think we will go to Germany (future simple will/won't)**
+* A prediction
+* Instant Decision 
+* Promises
+* Offers
+* Requests
+* Refusals
+
+**What time do you finish work?; When does the plane arrive? (present simple do)**
+* time tabled event
+* regular events
  
 
 
