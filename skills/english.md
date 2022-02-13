@@ -144,6 +144,12 @@ Some activity regular in the past, but is not relevant in present
 **What time do you finish work?; When does the plane arrive? (present simple do)**
 * time tabled event
 * regular events
+
+----
+
+# Passive Voice
+
+* **Simple Present** English is spoken here (is/am/are + V3) 
  
 
 
