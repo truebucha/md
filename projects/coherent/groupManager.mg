@@ -12,6 +12,12 @@
 
 ----
 
+* Get cases from delivary manage
+* Feedback from PM and Team
+* Move to new ER 2-3 month
+
+----
+
 # Pavel Klimov
 
 * mail: pavelklimov@coherentsolutions.com
