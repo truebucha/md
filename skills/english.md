@@ -83,13 +83,28 @@ I don't like ither Trump and Biden
 * Not sure -> might, could, may
 * Sure must(positive) can't be(negative)
 
-## Times
+### Times
 
 * Continious -> might be loosing ( be + ing )
 * Future -> may fall down ( V1 )
 * Passive -> might be followed ( be + V3 )
 
+#### When I talk about future cases
+
+* General Ability -> say Could 
+* Specific Possibility/Desire to have ability -> say To be able to 
+* Nececity/ No choise -> say Have to 
+* Good Idea -> say Should 
+
 ----
+
+# Used to (useta) - was regular earlier, but not now
+
+Some activity regular in the past, but is not relevant in present
+
+* Didn't use to (didnt useta)
+ 
+
 
 
 
