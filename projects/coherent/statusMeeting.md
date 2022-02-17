@@ -31,6 +31,7 @@
 # Platform:
 
 * Arthur
+* Oleg Mankevich
 * Joe
 * Dan Finley
 * Marc
@@ -41,6 +42,14 @@
 
 * Alexey
 * Artem
+
+# Olga
+
+Slava
+Nadya
+Igor
+Vanya
+Alexander Seledchik
   
 # Automation
 
