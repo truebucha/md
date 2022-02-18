@@ -12,4 +12,5 @@
 # Retrospective
 
 * *Really good stories from Chris*
-* 
+* *Team doesn't communicate issues and task implementation details enough* that lead fixes of the same issue from different developers
+* *Some work done without creating a tasks in the sprint* there is no info about progress, results, no discussions of possible solutions for that work
