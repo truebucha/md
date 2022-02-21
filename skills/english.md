@@ -160,6 +160,13 @@ Some activity regular in the past, but is not relevant in present
 
 ----
 
+# Lesson Rob and Jenny
+
+be about to do something
+to work out (relationship)
+I wonder if you really want that
+
+# Inderect questions
 
 
 
