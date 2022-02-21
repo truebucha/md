@@ -168,6 +168,19 @@ I wonder if you really want that
 
 # Inderect questions
 
+Excuse me
+
+* Could you tell me why Mike is still here?
+* Do you know if he's got one now?
+* I wonder if you really want to be here.
+* i'd like to know what you really want?
+
+Thank you, that was most helpful.
+
+# Inderect speech
+
+*TODO:* to feel out 
+
 
 
 
