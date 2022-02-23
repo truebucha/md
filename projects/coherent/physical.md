@@ -1,4 +1,12 @@
 
+# leaf protocol in reader
+
+<https://leafidentity.com>
+
+# lenel on guard
+
+<https://www.lenels2.com/en/us/security-products/onguard/>
+
 # QA
 
 ## Konstantinb Panel Adaptel - Lenel OnGuard
