@@ -27,16 +27,18 @@ OAuth Client Secret: zW8QKR47fdkvF03XjcvcnW8SEdEVdsZO6pZScORfJGASn6R0ib51YDlpHTa
 ----
 ## Konstantinb Fake Lenel Panel Adapter
 
-1 Setup device:
+1 setup lenel on guard adapter 
+
+2 Setup device with provided data:
 ```
 Identity Server Hostname: cloud.coh-test.xyz
 OAuth Client ID: JsTXlaIYftatLJTR7zEn4I5SXvjWcBXlhJ8n
 OAuth Client Secret: u5T7X6kW93dzz6OkS1cHOOwlnF4ByB87lnNksfY5JrENAlHLurnkxzj79W1hr5T8
 ```
 
-2 setup lenel on guard adapter 
+3 reboot the panel emulator
 
-3 IDS will add a reader and maintained by itsel (with the name that fake lenel panle will provide)
+4 IDS will add a reader and maintained by itsel (with the name that fake lenel panle will provide)
 
 ---
 
@@ -53,4 +55,6 @@ OAuth Client Secret: u5T7X6kW93dzz6OkS1cHOOwlnF4ByB87lnNksfY5JrENAlHLurnkxzj79W1
 readerId,readerName,buildingId,beaconId,accessLevels,masterKey,credentialKey,readerType
 022300000000690F,Konstantinb Leaf Reader,85,022300000000690F,General,00000000000000000000000000000000,00000000000000000000000000000000,LEAF
 ```
+
+4 reboot the panel emulator
 
