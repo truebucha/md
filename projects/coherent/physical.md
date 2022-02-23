@@ -13,6 +13,8 @@
 
 ## Konstantinb Panel Adaptel - Lenel OnGuard
 
+c95c6057-ace2-4598-8b79-c82e219f1a44.54.15716
+
 Identity Server Hostname: cloud.coh-qa.xyz
 OAuth Client ID: gdeqlnWKBvcZFo6jxYiJIeqiqaCG5M4UOfdk
 OAuth Client Secret: zW8QKR47fdkvF03XjcvcnW8SEdEVdsZO6pZScORfJGASn6R0ib51YDlpHTaNPdyw
@@ -21,6 +23,8 @@ OAuth Client Secret: zW8QKR47fdkvF03XjcvcnW8SEdEVdsZO6pZScORfJGASn6R0ib51YDlpHTa
 
 
 ## Konstantinb Panel Adaptel - Lenel OnGuard
+
+c95c6057-ace2-4598-8b79-c82e219f1a44.54.15716
 
 Identity Server Hostname: cloud.coh-test.xyz
 OAuth Client ID: JsTXlaIYftatLJTR7zEn4I5SXvjWcBXlhJ8n
