@@ -24,8 +24,8 @@ OAuth Client Secret: zW8QKR47fdkvF03XjcvcnW8SEdEVdsZO6pZScORfJGASn6R0ib51YDlpHTa
 # STAGE
 
 ## IDS set up
-
-* Konstantinb Fake Lenel Panel Adapter
+----
+## Konstantinb Fake Lenel Panel Adapter
 
 1 Setup device:
 ```
@@ -38,11 +38,15 @@ OAuth Client Secret: u5T7X6kW93dzz6OkS1cHOOwlnF4ByB87lnNksfY5JrENAlHLurnkxzj79W1
 
 3 IDS will add a reader and maintained by itsel (with the name that fake lenel panle will provide)
 
-* Konstantinb Pac Panel Adapter
+---
+
+## Konstantinb Pac Panel Adapter
 
 1 setup Self managed Pac adapter
 
-2 Add reader manually using file below
+2 setup virtual badge for that adapter
+
+3 Add reader manually using file below
 
 `truu_reader_template-SelfManagedPack.csv`
 ```
