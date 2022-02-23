@@ -181,6 +181,12 @@ Thank you, that was most helpful.
 
 *TODO:* to feel out 
 
+# defining and non defining clauses
+
+* in nondefining clauses should be work who, which, that
+* in defining we can skip them
+
+
 
 
 
