@@ -3,6 +3,8 @@
 
 <https://leafidentity.com>
 
+<https://www.usmartcards.com/solutions/leaf-cards/>
+
 # lenel on guard
 
 <https://www.lenels2.com/en/us/security-products/onguard/>
