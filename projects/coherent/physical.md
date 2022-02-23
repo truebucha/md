@@ -15,3 +15,9 @@ OAuth Client Secret: zW8QKR47fdkvF03XjcvcnW8SEdEVdsZO6pZScORfJGASn6R0ib51YDlpHTa
 Identity Server Hostname: cloud.coh-test.xyz
 OAuth Client ID: JsTXlaIYftatLJTR7zEn4I5SXvjWcBXlhJ8n
 OAuth Client Secret: u5T7X6kW93dzz6OkS1cHOOwlnF4ByB87lnNksfY5JrENAlHLurnkxzj79W1hr5T8
+
+## truu_reader_template-SelfManagedPack-Leaf.csv
+```
+readerId,readerName,buildingId,beaconId,accessLevels,masterKey,credentialKey,readerType
+022300000000690F,Konstantinb Leaf Reader,85,022300000000690F,General,00000000000000000000000000000000,00000000000000000000000000000000,LEAF
+```
