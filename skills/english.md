@@ -186,6 +186,12 @@ Thank you, that was most helpful.
 * in nondefining clauses should be work who, which, that
 * in defining we can skip them
 
+# Words about sport
+
+cycle lane
+
+footbal pitch
+
 
 
 
