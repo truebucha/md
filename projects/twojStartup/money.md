@@ -4,6 +4,8 @@
 
 ----
 
+hourly rates: normal (36.47), overtimes ()
+
 
 ## In facture to coherent the exchange rate should be 1 day earlier then the selles date of VAT invoice (facture) 
 
