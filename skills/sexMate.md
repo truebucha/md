@@ -1,6 +1,7 @@
 # Easy way to have a sex
 
 * Be very positive and smily
+* Be polite and don't be rude.
 * touch her body a lot
 * enjoy time together
 * when she became relaxing, 
