@@ -4,7 +4,7 @@
 
 ----
 
-hourly rates: normal (36.47), overtimes (33,63) за овертаймы
+hourly rates: normal (36.47), overtimes (33.63) за овертаймы
 
 
 ## In facture to coherent the exchange rate should be 1 day earlier then the selles date of VAT invoice (facture) 
