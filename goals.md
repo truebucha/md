@@ -1,5 +1,24 @@
 You've got to think lucky. If you fall into a mudhole, check your back pocket - you might have caught a fish
 
+## Wealth goals
+
+- [ ] bring fortune
+- [ ] cure penis
+- [ ] cure ear
+- [ ] cure sinusit
+- [ ] move to Malaga in spain
+
+## Life goals
+
+- [ ] мышление
+- [ ] упорство
+- [ ] терпение
+- [ ] низкая впечатлительность
+- [ ] воодушевление
+- [ ] relaxed attitude and beeing open to changes
+- [ ] do acts 7m and rethink 3m during life
+- [ ] disregard any pitiful thoughts
+
 ## Work goals
 
 - [ ] Make small PRS
@@ -8,38 +27,13 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 - [ ] Do Smalltalks
 - [ ] Read self estimation
 
-## Live goals
-
-- [ ] awaiting lucky chance
-- [ ] relaxed attitude and beeing open to changes
-- [ ] act quickly (do things you are prised for, not you like to do)
-- [ ] disregard any pitiful thoughts
-
-- [ ] disregard negative perception
-- [ ] future will be positive. Try no matter what
-
-- [ ] do acts 7m and rethink 3m during life
-
-- [ ] think outside the box
-- [ ] keep going, learn from succeeds and mistakes
-
-----
-
-- [ ] https://developer.apple.com/tutorials/swiftui
-- [ ] invite group members
-
-- [ ] <https://www.manager-tools.com/2019/01/manager-tools-data-one-ones-part-2-hall-fame-guidance>
+## Orders
 
 - [ ] nasal spray from china
+- [ ] phone stands
+
+## Reading
+
 - [ ] Mythical man-month book
 - [ ] The Hard Thing About Hard Things book
 - [ ] Humanware--Practical Usability Engineering.
-
-## Wealth goals
-
-- [ ] bring fortune
-- [ ] fix all cavities in toothes
-- [ ] cure penis
-- [ ] cure ear
-- [ ] cure sinusit
-- [ ] move to Malaga in spain
