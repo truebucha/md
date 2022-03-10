@@ -3,7 +3,7 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 ## Life goals
 
 - [ ] ум, позитивный эмоциональный фон, жить достойным самого лучшего
-- [ ] низкая впечатлительность, расслабленность, сохранение своей точки зрения
+- [ ] энтузиазм, низкая впечатлительность, свобода, сохранение своей точки зрения
 - [ ] умение оценивать ситуацию, формировать киритерии и делать выбор на основании ситуации
 - [ ] упорство в делах
 - [ ] терпение в достижении целей
@@ -19,6 +19,9 @@ You've got to think lucky. If you fall into a mudhole, check your back pocket - 
 
 ## Work goals
 
+- [ ] tell bad news first then good news above the bad (today I can't help you but next time definately. Be sure)
+- [ ] explain argument using future projection (dont't argue with opinion - provide a future projection that highlights you standpoint)
+- [ ] I see that you sceptical about that thing (if yes - what bother person, if no - it will change mind with ease)
 - [ ] Make small PRS
 - [ ] Keep implementation simple (KISS)
 - [ ] Cheer leader - raise good and opportunities before go to correction, role, required actions
