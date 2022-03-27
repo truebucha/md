@@ -1,7 +1,14 @@
+# Learn
+
+- [ ] Swift UI
+- [ ] Android First App -> Clone Detecta group
+- [ ] English Intermediate grammar
+- [ ] Spanish wocabulary for renting a flat and creating a bank account
+- [ ] Вим Хоф Дыхание
+
 # Buy
 
 - [ ] nasal spray from china
-- [ ] Вим Хоф Дыхание
 
 # Read
 
@@ -11,10 +18,6 @@
 - [ ] Mythical man-month book
 - [ ] The Hard Thing About Hard Things book
 - [ ] Humanware--Practical Usability Engineering.
-
-# Learn
-
-- [ ] Android First App -> Clone Detecta group
 
 
 # move some links in the skills section form 
