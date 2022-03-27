@@ -1,5 +1,3 @@
-### Script
-
 ```
 import Foundation
 
@@ -8,82 +6,32 @@ class LocalizableStringModel {
     let key: String
     let localizableStrings: [String: String]
 
-    init?(validArray: [String]) {
-        guard validArray.count == languageLocales.count else { return nil }
-        for str in validArray {
+    init?(lineArray: [String]) {
+        guard lineArray.count == languageLocales.count else {
+            print("We have \(languageLocales.count) in key + locales but found \(lineArray.count) elements in line")
+            return nil
+        }
+        for str in lineArray {
             guard !str.isEmpty else { return nil }
         }
 
-        var validArrayWithoutKey = validArray
+        var validArrayWithoutKey = lineArray
         validArrayWithoutKey.removeFirst()
         var languageFolders = languageLocales
         languageFolders.removeFirst()
         var dictinary = [String: String]()
 
         for (index, key) in languageFolders.enumerated() {
-            let value = LocalizableStringModel.replaceDoubleQuotes(validArrayWithoutKey[index])
-            dictinary[key] = value
+            dictinary[key] = validArrayWithoutKey[index].replacingOccurrences(of: "\"", with: "\\\"")
         }
 
-        self.key = validArray[0]
+        self.key = lineArray[0]
         self.localizableStrings = dictinary
-    }
-
-    convenience init?(array: [String]) {
-        var haveNotCommas = true
-        for str in array {
-            if str.first == "\"" || str.last == "\"" {
-                haveNotCommas = false
-                break
-            }
-        }
-
-        if array.count <= languageLocales.count, haveNotCommas {
-            self.init(validArray: array)
-        } else {
-            var array = array
-            var validArray = [String]()
-            let key = array.remove(at: 0)
-            var value = ""
-
-            for str in array {
-                var str = str
-                if str.first != "\"", str.last != "\"", value.isEmpty {
-                    validArray.append(str)
-                    continue
-                } else if str.first != "\"", str.last != "\"", !value.isEmpty {
-                    value += str + ","
-                }
-
-                if str.first == "\"" {
-                    str.removeFirst()
-                    value += str + ","
-                    continue
-                }
-
-                if str.last == "\"" {
-                    str.removeLast()
-                    value += str
-                    validArray.append(value)
-                    value = ""
-                }
-            }
-
-            validArray.insert(key, at: 0)
-            self.init(validArray: validArray)
-        }
-    }
-
-    static func replaceDoubleQuotes(_ string: String) -> String {
-        let newString = string.replacingOccurrences(
-            of: "\"\"", with: "\\\"", options: .literal, range: nil)
-
-        return  newString
     }
 }
 
 // MARK: - Properties
-let fileName = "TruU-Localization.xlsx - iOS Mobile Localizable.csv"
+let fileName = "TruU-Localization.xlsx - iOS Mobile Localizable.tsv"
 var languageLocales = [String]()
 
 // MARK: - Errors
@@ -94,7 +42,7 @@ enum ScriptError: Error {
 }
 
 // MARK: - Methods
-func readCSV(inputFile: String) throws -> [LocalizableStringModel] {
+func readTSV(inputFile: String) throws -> [LocalizableStringModel] {
     var stringArray = [String]()
     var clearStringsArray = [String]()
     var modelsArray = [LocalizableStringModel]()
@@ -111,8 +59,14 @@ func readCSV(inputFile: String) throws -> [LocalizableStringModel] {
         .appendingPathComponent(inputFile)
 
     do {
-        let savedData = try String(contentsOf: inputFile)
-        stringArray = savedData.components(separatedBy: "\n")
+        let csv = try String(contentsOf: inputFile)
+        // We replace C string format specifier with string one "%1$s" -> "%1$@"
+        let scvIOSformat = csv.replacingOccurrences(
+            of: "$s",
+            with: "$@",
+            options: .caseInsensitive
+        )
+        stringArray = scvIOSformat.components(separatedBy: "\n")
     } catch {
         Swift.debugPrint("\nError: \(error) \n")
         throw ScriptError.missedLocalizationSource(file: inputFile)
@@ -122,7 +76,7 @@ func readCSV(inputFile: String) throws -> [LocalizableStringModel] {
         throw ScriptError.emptySCVFile }
 
     columnHeadersLine.removeLast()
-    let arrayFirstStr = columnHeadersLine.components(separatedBy: ",")
+    let arrayFirstStr = columnHeadersLine.components(separatedBy: "\t")
     languageLocales = arrayFirstStr
 
     stringArray.removeSubrange(0...1)
@@ -133,8 +87,8 @@ func readCSV(inputFile: String) throws -> [LocalizableStringModel] {
     }
 
     for (index, str) in clearStringsArray.enumerated() {
-        let array = str.components(separatedBy: ",")
-        guard let model = LocalizableStringModel(array: array) else {
+        let array = str.components(separatedBy: "\t")
+        guard let model = LocalizableStringModel(lineArray: array) else {
             let arrayWithoutKey = array[1...]
             var isOneOfLocolizableStringsNotEmpty = false
             arrayWithoutKey.forEach {
@@ -142,7 +96,11 @@ func readCSV(inputFile: String) throws -> [LocalizableStringModel] {
             }
 
             if !array[0].isEmpty, isOneOfLocolizableStringsNotEmpty {
-                Swift.debugPrint("Warning! Localization for key \(array[0]) == nil. String number \(index + 3)")
+                Swift.debugPrint("""
+                    Line: \(index + 3), Missing localization for key \(array[0]): \
+                    \(arrayWithoutKey.reduce(into: "", { $0 += "\($1);" }))
+                    """
+                )
             }
             continue
         }
@@ -190,7 +148,7 @@ func writeToFiles(localizableStrings: [String: String]) {
 func main() {
     let modelsArray: [LocalizableStringModel]
     do {
-        modelsArray = try readCSV(inputFile: fileName)
+        modelsArray = try readTSV(inputFile: fileName)
     } catch {
         print("\n \(error) \n")
         return
@@ -202,4 +160,3 @@ func main() {
 
 main()
 ```
-

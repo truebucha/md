@@ -1,1 +1,0 @@
-## sign out online <https://www.sejda.com/sign-pdf?>

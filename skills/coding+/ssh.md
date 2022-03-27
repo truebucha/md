@@ -1,3 +1,8 @@
+# terminal shell job managment
+
+[source](http://www.tldp.org/LDP/abs/html/x9644.html)
+bg, fg, jobs, kill, killall
+
 # Making a SSH Key
 
 If you already have an existing SSH key, you can use it for Fedora work.

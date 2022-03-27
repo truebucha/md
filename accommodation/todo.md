@@ -1,9 +1,11 @@
 # Buy
 
 - [ ] nasal spray from china
+- [ ] Вим Хоф Дыхание
 
 # Read
 
+- [ ] <https://fuckingswiftui.com>
 - [ ] Up the organisation
 - [ ] Договориться можно обо всем
 - [ ] Mythical man-month book
