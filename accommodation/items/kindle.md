@@ -1,2 +1,0 @@
-amazon
-truebucha@gmail.com | 

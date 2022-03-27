@@ -1,3 +1,15 @@
+### Docs: 1 page for each 1 000 zl
+
+### One time payment limit is 23 000 zl
+
+### Regular zl transfer fee is 1 zl, fast is 10zl
+
+### USD transfer fee is $15 ??or more?? 
+
+### Mounthly fee of TwojStartup is 350zl
+
+### 50% of 17% is used until I reach 240 000 zl in payments
+
 # link
 
 * [Guide into CRM](https://www.youtube.com/watch?v=0fJ7IrQ9ICw)

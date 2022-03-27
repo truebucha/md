@@ -1,0 +1,1 @@
+send book to kanstantsin.bucha@kindle.com

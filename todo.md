@@ -1,8 +1,6 @@
 # Buy
 
 - [ ] nasal spray from china
-- [ ] phone stands
-- [ ] iPhone 13 Pro Max
 
 # Read
 
