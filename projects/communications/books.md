@@ -1,1 +1,0 @@
-https://yadi.sk/d/pXI75ijzytkulA
