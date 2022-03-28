@@ -54,19 +54,65 @@ dometry - общежитие
 
 ----
 
+# 0 Conditional
+
+This conditional is used when the result will always happen. So, if water reaches 100 degrees,
+
+**If/When + present simple, .... present simple.**
+
+* If people eat too much, they get fat.
+* If you touch a fire, you get burned.
+* People die if they don't eat.
+* You get water if you mix hydrogen and oxygen
+
+----
+
+# 1st conditional
+
+It's used to talk about things which might happen in the future. 
+Of course, we can't know what will happen in the future,
+but this describes possible things, which could easily come true.
+
+**if + present simple, ... will + infinitive**
+
+* If it rains, I won't go to the park.
+* If I study today, I'll go to the party tonight.
+* If I have enough money, I'll buy some new shoes.
+* She'll be late if the train is delayed.
+
+----
+
+# 2nd conditional
+
+**if + past simple, ...would + infinitive**
+
+First, we can use it to talk about things in the future that are probably not going to be true. 
+Maybe I'm imagining some dream for example.
+
+* If I won the lottery, I would buy a big house.(I probably won't win the lottery)
+* If I met the Queen of England, I would say hello.
+* She would travel all over the world if she were rich.
+* She would pass the exam if she ever studied.(She never studies, so this won't happen)
+
+Second, we can use it to talk about something in the present which is impossible,
+because it's not true.
+
+* If I had his number, I would call him. (I don't have his number now, so it's impossible for me to call him).
+* If I were you, I wouldn't go out with that man.
+
+----
+
 # 3nd conditional (past action)
+
+It talks about the past. It's used to describe a situation that didn't happen, and to imagine the result of this situation.
+
+**if + past perfect, ...would + have + past participle**
 
 * If he hadn't drank a lot of beer yesterday, he wouldn't have missed the train
 * If he hadn't broken up with his girlfrend, wouldn't have been so upset yesterday
 * if Max hadn't hepled me with the logs I wouldn't [ha]ve resolved the issue
 * if Leitenant hadn't missed the documents I wouldn't [ha]ve escape the army that year
 * if my teacher hadn't missed the documents I wouldn't [ha]ve known how a broken promise fills like
-
-### Rule
-
--> If he hadn't drank a lot of beer yesterday (Condition in Past Perfect)
-
--> he wouldn't have missed the train (Main Sentense - would + present perfect)
 
 ---
 
