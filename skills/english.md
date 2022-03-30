@@ -239,6 +239,22 @@ cycle lane
 footbal pitch
 
 
+# Intermediate language
+
+turn out that 
+used to
+get used to (Ving)
+If/Unless
+might, have to, can't
+when (about future)
+(a) few/little, not much/many
+any phrasal veb
+tend
+as...as
+any strong adjective (fantastic, furious, etc)
+either, both
+rather
+
 
 
 
