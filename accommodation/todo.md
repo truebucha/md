@@ -39,3 +39,5 @@ copy_if(assets.begin(), assets.end(), back_inserter(photos), [] (shared_ptr<Medi
     return temp.get() != nullptr;
 });
 ```
+
+dreamComeTrue$1
