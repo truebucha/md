@@ -10,6 +10,10 @@
 
 * Дробышвский - по вопросам инновейшен лаборатории
 
+Please join [Training Center]
+(https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcoherentsolutions.facebook.com%2Fgroups%2Fissofttraining%2F%3Fref%3Dbrowser&data=04%7C01%7CKonstantinBucha%40coherentsolutions.com%7C8a21d0fa46d240e70bf908da122a2ff5%7C81915a7774c44370a6f97e5e66322233%7C0%7C0%7C637842269643152405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=FYYcBqSe%2BiXqYCMyGX72LllewO%2BdkYCYhm8UuUHNc8I%3D&reserved=0)
+group in Workplace if you want to go on additional training, get new professional skills and develop yourself.
+
 ----
 
 * Get cases from delivary manage
@@ -63,6 +67,19 @@ Your start date on the project is 02/07/22
  
  
  ------
+ 
+ Dziyana Prymshyts, DziyanaPrymshyts@coherentsolutions.com
+
+You have been assigned on Life Fitness - Android Concole project.
+Your start date on the project is 03/30/22
+
+ Role: Developer
+ Utilization: 100 %
+ Billing: Billable
+ 
+ 
+You can see information about the team & project & client in RMSys:
+https://rmsys.issoft.by/Project/Index#id-5710da51-4684-48ef-82d3-6d140b19a8cb
  
  
 <https://helpdesk.issoft.by/create?template_id=156>
