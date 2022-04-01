@@ -1,3 +1,7 @@
+# readability of code base
+
+<TruuService/TruuService/XPCSmartCardService.swif:117>
+
 # One-On-One
 
 -----
@@ -7,13 +11,6 @@
 ## Andrey
 
 2 projects - no time
-
-### Anna
-
-* Wants move to Poland
-
-* Wants an Vacation
-
 
 ### Slava
 
