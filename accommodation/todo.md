@@ -1,3 +1,23 @@
+
+# in progress
+
+- [ ] Excahnge driving license
+
+# 1st of every month
+
+- [ ] Pay 1200zl for flat
+- [ ] Pay $15 for server
+- [ ] Pay 64zl for youtube
+- [ ] Pay $9 for pointfree
+- [ ] Pay 100Byn Vanya and 20 Byn Andrey
+- [ ] Made invoice for Coherent Solutions
+- [ ] Made docs to transfer salary to my bank account
+
+# every week
+
+- [ ] Pay 200zl for food
+- [ ] Pay 600zl Sanya
+
 # Learn
 
 - [ ] Swift UI
