@@ -1,3 +1,4 @@
+# Links
 
 - [ ] Make accent on the strengths of peoples 
 - [ ] Provide yourself a time to make strategic decisions 
@@ -30,6 +31,13 @@ you should have a free time to think. 2 hours min
 
 
 # Management Trinity
+
+## Providing feeedback
+
+- [ ] https://www.manager-tools.com/mtsearch/podcast_item/node/139388
+- [ ] https://www.manager-tools.com/mtsearch/podcast_item/node/140263
+- [ ] https://www.manager-tools.com/mtsearch/podcast_item/node/140264
+- [ ] https://www.manager-tools.com/mtsearch/podcast_item/node/140265
 
 ## one on one
 
