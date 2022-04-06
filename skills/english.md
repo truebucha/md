@@ -4,6 +4,17 @@
 * <https://test-english.com>
 * <https://quizlet.com/>
 
+
+# Conversations
+
+You look familiar / Have we met before / Do I know you?
+
+We might have seen each other / We must have seen each other
+
+yes, I had / Not really / Sorry. Come again / Sorry. Can you say it again?
+
+Anyway. It was nice to meet you! See you soon / later.
+
 # Lesson January 24
 
 As a Service provider Offers the solution
