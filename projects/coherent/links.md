@@ -30,7 +30,9 @@
 
 * Workspace group <https://coherentsolutions.workplace.com/groups/1222767161389011>
 
-# Passwords
+# Microsoft account mamangement
+
+настройки аккаунта <https://myaccount.microsoft.com/?ref=MeControl>
 
 сменить пароль <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>
 
