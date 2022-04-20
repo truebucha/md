@@ -30,6 +30,10 @@
 
 * Workspace group <https://coherentsolutions.workplace.com/groups/1222767161389011>
 
+# Relocation
+
+* <https://forms.office.com/pages/responsepage.aspx?id=d1qRgcR0cEOm-X5eZjIiM67NQjjjf0xHqpdJSgnzBBNUNVBYUTRMVFpUMUNHUlVWN0hBSzk3MVFNWS4u>
+
 # Microsoft account mamangement
 
 настройки аккаунта <https://myaccount.microsoft.com/?ref=MeControl>
