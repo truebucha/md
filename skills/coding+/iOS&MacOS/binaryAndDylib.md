@@ -30,3 +30,9 @@ Load command 47
 # Check dylib
 
 * `dyld_info libswift_Concurrency.dylib`
+
+# Check runtime 
+
+* in the debugger console, if you run `image list`
+
+
