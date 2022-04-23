@@ -35,4 +35,8 @@ Load command 47
 
 * in the debugger console, if you run `image list`
 
+# Check all loaded libraries in the system
+
+`DYLD_PRINT_LIBRARIES=YES /usr/bin/true`
+
 
