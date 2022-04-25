@@ -33,7 +33,7 @@ USD 4260
 
 2021 October Brutto 5.65k -> $36 h
 
-2021 May Brutto 6k -> ?
+2022 May Brutto 6k -> ?
 
 # Lida Flat
 
