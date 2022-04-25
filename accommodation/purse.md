@@ -1,11 +1,13 @@
 
-03.03.2022
+25.04.2022
 
 # Mama 
 
  2009 48.100
 
- 2006 22.900
+ 2006 20.500 
+ 
+ 2400 - for Sergey 
 
 # backpack
 
@@ -13,30 +15,29 @@
  
 # PKO bank
  
- PLN 10692 
+ PLN 8031 
  
- USD 21670
+ USD 7126
  
- EUR 12,19
+ EUR 17664
  
 # M bank
 
-PLN 1994
+PLN 1445
 
-USD 3708
+USD 4260
 
 # Salary 
 
-May 4.3k -> $32.4 h
+2021 May Netto Brutto 5,06k -> $32.4 h
 
-October 4.8k -> $36 h
+2021 October Brutto 5.65k -> $36 h
+
+2021 May Brutto 6k -> ?
 
 # Lida Flat
 
-оплачен октябрь
+оплачен март 2022
 
-2020
-
-5435 5350 1465 4262
 
 
