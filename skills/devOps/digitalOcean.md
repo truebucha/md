@@ -9,6 +9,10 @@
 
 <https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04>
 
+## Send file to server
+
+`scp filename.ext dfire@138.197.190.245:`
+
 ## User by process PID
 
 `ps -u -p 61978`
