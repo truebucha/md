@@ -1,7 +1,9 @@
 # droplets
 
 ## digital ocean
-
+```
+ssh dfire-do
+```
 
 # production
 
