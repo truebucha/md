@@ -254,8 +254,19 @@ cycle lane
 
 footbal pitch
 
+----
 
 # Intermediate language
+
+Apparently, ….
+
+it'll sort itself out
+
+you need a bit of cheering up
+
+Go on, it's cheering you up!
+
+I'll join you!
 
 turn out that 
 used to
@@ -272,6 +283,8 @@ either, both
 rather
 
 it's a pity
+
+completely exhausted
 
 
 
