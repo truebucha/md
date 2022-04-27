@@ -1,7 +1,12 @@
+# dictionary
+
+<https://www.lingvolive.com/en-us>
+
 # Tests with grammar
 
-* <https://learnenglish.britishcouncil.org/grammar/beginner-to-pre-intermediate>
 * <https://test-english.com>
+
+* <https://learnenglish.britishcouncil.org/grammar/beginner-to-pre-intermediate>
 * <https://quizlet.com/>
 
 
@@ -265,6 +270,8 @@ as...as
 any strong adjective (fantastic, furious, etc)
 either, both
 rather
+
+it's a pity
 
 
 
