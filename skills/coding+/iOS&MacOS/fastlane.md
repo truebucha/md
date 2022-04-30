@@ -5,5 +5,5 @@
 
 To get development profiles run
 ```
-fastlane mathc development --readonly
+fastlane match development --readonly
 ```
