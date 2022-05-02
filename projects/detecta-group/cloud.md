@@ -10,6 +10,10 @@ for user: dfire | pwd: dreamIsCloud#1
 
 sudo su -l www-data -s /bin/bash
 
+## Send file to server
+
+`scp filename.ext dfire@138.197.190.245:`
+
 # MySql
 
 
