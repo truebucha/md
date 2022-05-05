@@ -3,6 +3,12 @@
 
 <https://support.apple.com/en-us/HT211683>
 
+# log level change
+
+```
+sudo log config --mode "level: debug"
+```
+
 # install font [Fira Code](https://github.com/tonsky/FiraCode/releases) with ligatures
 # install systemwide command line tools
 
