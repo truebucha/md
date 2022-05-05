@@ -1,4 +1,8 @@
 
+# old versions of macOS
+
+<https://support.apple.com/en-us/HT211683>
+
 # install font [Fira Code](https://github.com/tonsky/FiraCode/releases) with ligatures
 # install systemwide command line tools
 
