@@ -7,7 +7,7 @@
 
  2006 20.500 
  
- 2400 - for Sergey 
+ 2000 - for Sergey 
 
 # backpack
 
@@ -15,17 +15,17 @@
  
 # PKO bank
  
- PLN 8031 
+ PLN 5773 
  
- USD 7126
+ USD 126
  
- EUR 17664
+ EUR 24606
  
 # M bank
 
-PLN 1445
+PLN 0
 
-USD 4260
+USD 10736
 
 # Salary 
 
