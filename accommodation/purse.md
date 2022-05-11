@@ -7,7 +7,12 @@
 
  2006 20.500 
  
- 2000 - for Sergey 
+# Belorus Flat
+ Mama - payed for April 300BYN
+
+ Sergey - payed for April $400 (limit 2000)
+ 
+ Alexander - payed for April €100 
 
 # backpack
 
@@ -35,9 +40,6 @@ USD 10736
 
 2022 May Brutto 6k -> ?
 
-# Lida Flat
-
-оплачен март 2022
 
 
 
