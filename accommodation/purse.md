@@ -1,5 +1,5 @@
 
-25.04.2022
+20.05.2022
 
 # Mama 
 
@@ -20,17 +20,17 @@
  
 # PKO bank
  
- PLN 5773 
+ PLN 3400
  
- USD 126
+ USD 1076
  
- EUR 24606
+ EUR 33148
  
 # M bank
 
 PLN 0
 
-USD 10736
+USD 24
 
 # Salary 
 
