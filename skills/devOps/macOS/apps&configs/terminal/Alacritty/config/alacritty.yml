@@ -1,4 +1,5 @@
-working_directory: /Users/konstantinbucha/Act
+
+working_directory: /Users/kanstantsinbucha/Act
 
 log_level: None
 
@@ -11,21 +12,21 @@ window:
 # Font configuration (changes require restart)
 font:
   # The normal (roman) font face to use.
-  size: 10
+  size: 13
   normal:
-    family: Fira Code
+    family: JetBrains Mono NL
     # Style can be specified to pick a specific face.
     style: Light
 
   # The bold font face
   bold:
-    family: Fira Code
+    family: JetBrains Mono NL
     # Style can be specified to pick a specific face.
     style: Retina
 
   # The italic font face
   italic:
-    family: Fira Code
+    family: JetBrains Mono NL
     # Style can be specified to pick a specific face. JetBrains Mono
     style: Bold
     
