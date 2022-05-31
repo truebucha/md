@@ -1,6 +1,10 @@
 
 dreamComeTrue$1
 
+from May 2022:
+Regular 38.47 USD Gross 
+Overtimes 35.24 USD Gross. 
+
 20.05.2022
 
 # Mama 
