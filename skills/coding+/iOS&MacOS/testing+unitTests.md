@@ -1,4 +1,28 @@
 
+# test push notifications on simulator
+
+`xcrun simctl list`
+
+`xcrun simctl push A667FF9A-8C03-4AEA-838C-FE6CEB56776F Payload.apns`
+
+```
+{
+    "aps": {
+        "alert": {
+            "body": "Test message",
+            "title": "Optional title",
+            "subtitle": "Optional subtitle"
+        },
+        "sound": "default",
+        "category": "Info_Push",
+        "thread-id": "5281"
+    },
+    "Simulator Target Bundle": "group.detecta.apps.connect"
+}
+
+```
+
+
 # Quick + Nible
 
 [Ray writo a really good article about it](https://www.raywenderlich.com/135-behavior-driven-testing-tutorial-for-ios-with-quick-nimble)
