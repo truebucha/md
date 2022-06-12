@@ -1,4 +1,7 @@
 
+# Online tool to create gitignore configs
+
+https://www.toptal.com/developers/gitignore
 
 # Problem: you move repo locally - all files now marked as having changes
 
