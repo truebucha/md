@@ -287,5 +287,13 @@ it's a pity
 completely exhausted
 
 
-
+how log did you warm up for? I need to stop I think I pulled a! muscle.
+how long have you been doing that? I can't meet tonight I have my kickboxing class.
+how long was he injured? He only started playing a again~ after the injury 2 month ago.
+how long she 've been learning? Her A'rabic is pretty good already
+- // - 
+how long did you play for? I used to be quite good at basketball before I gave up
+how log have you been driving? It's the first accident he ever had - he is actually a very good driver
+how long you've been waiting? At last, you are here! - I was beginning to worry.
+how long have they been married? My parents are having a party for their wedding unniversary on saturday
 
