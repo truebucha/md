@@ -1,6 +1,10 @@
 
 # iOS, Mac coding
 
+## Open settings app using URL
+
+* <https://gist.github.com/tzmartin/b7019c22fc3152a0b2fe>
+
 ## Blogs
 
 * <https://www.fivestars.blog>
