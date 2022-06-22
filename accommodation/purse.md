@@ -10,18 +10,16 @@ from May 2022:
 
 # Mama 
 
- 10 000 ?
-
  2009 48.100
 
  2006 20.500 
  
 # Belorus Flat
- Mama - payed for April 300BYN
+ Mama - payed for May 300BYN
 
- Sergey - payed for April $400 (limit 2000)
+ Sergey - payed for June $400 (limit 2000)
  
- Alexander - payed for April €100 
+ Alexander - payed for June €100 
 
 # backpack
 
@@ -29,11 +27,11 @@ from May 2022:
  
 # PKO bank
  
- PLN 3400
+ PLN 3559 / 388
  
- USD 1076
+ USD 2000
  
- EUR 33148
+ EUR 33548
  
 # M bank
 
