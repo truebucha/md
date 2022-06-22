@@ -37,7 +37,7 @@ from May 2022:
 
 PLN 0
 
-USD 24
+USD 3077
 
 # Salary 
 
