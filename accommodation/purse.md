@@ -17,7 +17,7 @@ from May 2022:
 # Belorus Flat
  Mama - payed for May 300BYN
 
- Sergey - payed for June $400 (limit 2000)
+ Sergey - payed for June $400 (limit 1600) 2 transfers
  
  Alexander - payed for June €100 
 
